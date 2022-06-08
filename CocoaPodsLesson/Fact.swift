@@ -1,7 +1,12 @@
 
 import Foundation
 
-struct Fact: Decodable {
+struct Fact: Codable {
     var name: String
-    var image_link: String
+    var imageLink: String
+    
+    enum CodingKeys: String, CodingKey {
+        case name
+        case imageLink = "image_link"
+    }
 }

@@ -4,4 +4,7 @@ target 'CocoaPodsLesson' do
   use_frameworks!
   pod 'Alamofire'
   pod 'lottie-ios'
+  pod 'Kingfisher'
+  pod 'IQKeyboardManagerSwift'
+  pod 'SkeletonView'
 end

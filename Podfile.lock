@@ -1,20 +1,32 @@
 PODS:
   - Alamofire (5.6.1)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Kingfisher (7.2.2)
   - lottie-ios (3.3.0)
+  - SkeletonView (1.29.2)
 
 DEPENDENCIES:
   - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
   - lottie-ios
+  - SkeletonView
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
     - lottie-ios
+    - SkeletonView
 
 SPEC CHECKSUMS:
   Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Kingfisher: 184d4d1a8c36666e663caf8e08abe87898595c53
   lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
 
-PODFILE CHECKSUM: 0236a9fc9720a7eaf0e7ac868f02c3fe703aa3d8
+PODFILE CHECKSUM: 6c8003f2385445e20321f98fbfc20b5ed75a625d
 
 COCOAPODS: 1.11.3
